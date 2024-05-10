@@ -1,0 +1,75 @@
+.nums {
+    width: 75rem;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    background-color: #242424;
+    color: rgb(240, 240, 240);
+    height: 14rem;
+    align-items: center;
+    font-size: 8rem;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    margin: 1rem 0 0 0;
+}
+
+.reloj {
+    border: 1px solid rgb(71, 71, 71);
+    width: 12rem;
+    height: 12rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(41, 41, 41);
+}
+
+.numero1 {
+    border: 1px solid rgb(71, 71, 71);
+    width: 8rem;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(41, 41, 41);
+}
+
+.numero2 {
+    border: 1px solid rgb(71, 71, 71);
+    width: 8rem;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(41, 41, 41);
+}
+
+.numero3 {
+    border: 1px solid rgb(71, 71, 71);
+    width: 8rem;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(41, 41, 41);
+}
+
+.numero4 {
+    border: 1px solid rgb(71, 71, 71);
+    width: 8rem;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(41, 41, 41);
+}
+
+.numero5 {
+    border: 1px solid rgb(71, 71, 71);
+    width: 8rem;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(41, 41, 41);
+}
+
+.numero6 {
+    border: 1px solid rgb(71, 71, 71);
+    width: 8rem;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(41, 41, 41);
+}
